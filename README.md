@@ -24,7 +24,6 @@ It’s lightweight, fast, and perfect for students, developers, or anyone lookin
    '''bash
    git clone https://github.com/your-username/todo_app.git
    cd todo_app
-   '
    
 3. Install requirements:
    pip install customtkinter
