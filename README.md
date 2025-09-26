@@ -21,17 +21,19 @@ It’s lightweight, fast, and perfect for students, developers, or anyone lookin
 
 ## 🚀 How to Use
 1. Clone the repo:
-   '''bash
+   ```bash
    git clone https://github.com/your-username/todo_app.git
    cd todo_app
    
 3. Install requirements:
+   ```bash
    pip install customtkinter
 
-4. Run the app:
+5. Run the app:
+   ```bash
    python main.py
 
-5. Use the app 🎉
+7. Use the app 🎉
    - Add new tasks
    - View tasks with filters or search
    - Update task details
